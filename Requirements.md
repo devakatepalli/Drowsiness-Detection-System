@@ -1,0 +1,4 @@
+Python
+OpenCV
+Dlib
+Imutils
